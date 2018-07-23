@@ -33,7 +33,7 @@ namespace MyMvc.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "你的应用程序描述界面.";
 
             return View();
         }
