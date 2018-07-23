@@ -1,0 +1,9 @@
+c:\users\tangkang\source\repos\EFCore\EFCore\bin\Debug\netstandard2.0\EFCore.deps.json
+c:\users\tangkang\source\repos\EFCore\EFCore\bin\Debug\netstandard2.0\EFCore.dll
+c:\users\tangkang\source\repos\EFCore\EFCore\bin\Debug\netstandard2.0\EFCore.pdb
+c:\users\tangkang\source\repos\EFCore\EFCore\obj\Debug\netstandard2.0\EFCore.csprojAssemblyReference.cache
+c:\users\tangkang\source\repos\EFCore\EFCore\obj\Debug\netstandard2.0\EFCore.csproj.CoreCompileInputs.cache
+c:\users\tangkang\source\repos\EFCore\EFCore\obj\Debug\netstandard2.0\EFCore.AssemblyInfoInputs.cache
+c:\users\tangkang\source\repos\EFCore\EFCore\obj\Debug\netstandard2.0\EFCore.AssemblyInfo.cs
+c:\users\tangkang\source\repos\EFCore\EFCore\obj\Debug\netstandard2.0\EFCore.dll
+c:\users\tangkang\source\repos\EFCore\EFCore\obj\Debug\netstandard2.0\EFCore.pdb

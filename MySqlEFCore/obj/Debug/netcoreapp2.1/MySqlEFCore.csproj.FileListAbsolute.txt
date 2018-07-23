@@ -1,0 +1,11 @@
+c:\Users\TangKang\source\repos\EFCore\MySqlEFCore\bin\Debug\netcoreapp2.1\MySqlEFCore.deps.json
+c:\Users\TangKang\source\repos\EFCore\MySqlEFCore\bin\Debug\netcoreapp2.1\MySqlEFCore.runtimeconfig.json
+c:\Users\TangKang\source\repos\EFCore\MySqlEFCore\bin\Debug\netcoreapp2.1\MySqlEFCore.runtimeconfig.dev.json
+c:\Users\TangKang\source\repos\EFCore\MySqlEFCore\bin\Debug\netcoreapp2.1\MySqlEFCore.dll
+c:\Users\TangKang\source\repos\EFCore\MySqlEFCore\obj\Debug\netcoreapp2.1\MySqlEFCore.csproj.CoreCompileInputs.cache
+c:\Users\TangKang\source\repos\EFCore\MySqlEFCore\obj\Debug\netcoreapp2.1\MySqlEFCore.AssemblyInfoInputs.cache
+c:\Users\TangKang\source\repos\EFCore\MySqlEFCore\obj\Debug\netcoreapp2.1\MySqlEFCore.AssemblyInfo.cs
+c:\Users\TangKang\source\repos\EFCore\MySqlEFCore\bin\Debug\netcoreapp2.1\MySqlEFCore.pdb
+c:\Users\TangKang\source\repos\EFCore\MySqlEFCore\obj\Debug\netcoreapp2.1\MySqlEFCore.dll
+c:\Users\TangKang\source\repos\EFCore\MySqlEFCore\obj\Debug\netcoreapp2.1\MySqlEFCore.pdb
+c:\Users\TangKang\source\repos\EFCore\MySqlEFCore\obj\Debug\netcoreapp2.1\MySqlEFCore.csprojAssemblyReference.cache
